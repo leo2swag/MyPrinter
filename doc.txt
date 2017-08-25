@@ -1,0 +1,5 @@
+Application name: MyPrinter
+Platform: Mobile 
+Language: Java
+
+developer: Leo Liu/ Alvin 
